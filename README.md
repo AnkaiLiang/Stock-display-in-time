@@ -1,3 +1,5 @@
-# play-big-data
+# Stock-display-in-time
 
-Play with various big data frameworks
+It's the source code of a web app for display the price of specific stoc in time.
+
+Only for myself to set up on server.
